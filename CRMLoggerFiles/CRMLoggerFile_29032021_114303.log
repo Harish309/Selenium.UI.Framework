@@ -1,0 +1,4 @@
+2021-03-29 11:43:15,358  INFO [main] WebEventListener:33 - Application Launched Successfully
+2021-03-29 11:43:15,857  INFO [main] DealsPage:49 - groupautomation
+2021-03-29 11:43:15,861  INFO [main] DealsPage:50 - [[ChromeDriver: chrome on WINDOWS (f8514ace146a72f934cf172eedc2ba5f)] -> name: password]
+2021-03-29 11:43:23,232  INFO [main] HomePage:48 - Home Page Title Verified
